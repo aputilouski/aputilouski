@@ -15,9 +15,9 @@
 ---
 
 #### :man_technologist: About Me :
-I am a Full Stack Developer from Belarus.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :zap: In my free time, I study js frameworks and read tech articles.
+- I am a Full Stack Developer from Belarus.
+- I work as a software engineer and am involved in building front-end and back-end for web applications.
+- In my free time, I study js frameworks and read technical articles and now I'm learning React Native.
 
 ---
 
